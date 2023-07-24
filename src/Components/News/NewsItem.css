@@ -1,0 +1,16 @@
+.img_size{
+    height: 23vh;
+}
+.btn-hover{
+    transition: .3s;
+}
+.btn-hover:hover{
+    background-color:#4E5465;
+}
+
+.tag{
+    z-index: 1;
+    margin-left: -2rem;
+    
+}
+/* temp */
